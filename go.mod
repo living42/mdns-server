@@ -1,4 +1,4 @@
-module mdns-server
+module github.com/living42/mdns-server
 
 go 1.15
 
